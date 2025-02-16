@@ -1,0 +1,82 @@
+{
+    "tam": [
+        {
+            "date": "2024-12-18 16:55:00",
+            "difficulty": "easy",
+            "time": 7,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-18 17:00:47",
+            "difficulty": "easy",
+            "time": 19,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-18 17:01:12",
+            "difficulty": "medium",
+            "time": 15,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-18 17:01:41",
+            "difficulty": "medium",
+            "time": 22,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-18 17:02:25",
+            "difficulty": "hard",
+            "time": 35,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-18 17:03:17",
+            "difficulty": "hard",
+            "time": 41,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-18 17:03:31",
+            "difficulty": "easy",
+            "time": 7,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-12-18 17:03:36",
+            "difficulty": "medium",
+            "time": 2,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-12-18 17:03:45",
+            "difficulty": "hard",
+            "time": 7,
+            "status": "Lose"
+        },
+        {
+            "date": "2024-12-18 17:05:06",
+            "difficulty": "easy",
+            "time": 18,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-19 07:52:06",
+            "difficulty": "hard",
+            "time": 1,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-19 09:02:01",
+            "difficulty": "easy",
+            "time": 161,
+            "status": "Win"
+        },
+        {
+            "date": "2024-12-19 09:03:21",
+            "difficulty": "medium",
+            "time": 38,
+            "status": "Lose"
+        }
+    ]
+}
